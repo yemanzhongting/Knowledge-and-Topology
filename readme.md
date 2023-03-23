@@ -1,10 +1,9 @@
-# English Title :en
+# About it
+The repository is linked to the article "Knowledge and topology: A two layer spatially dependent graph neural networks to identify urban functions with time-series street view image" published in ISPRS.
 
-# 日本語のタイトル :ja
-
-This is a paragraph in English. For simple processing, it's kept on one line. :en
-
-この段落は日本語で書かれています。処理を簡単にするため、改行を入れないようにしています。 :ja
+```
+Zhang Y, Liu P, Biljecki F. Knowledge and topology: A two layer spatially dependent graph neural networks to identify urban functions with time-series street view image[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2023, 198: 153-168.
+```
 
 ![这是图片](https://raw.githubusercontent.com/yemanzhongting/picb/main/structure.jpg)
 
