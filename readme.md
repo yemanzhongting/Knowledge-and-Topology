@@ -1,4 +1,10 @@
+# English Title :en
 
+# 日本語のタイトル :ja
+
+This is a paragraph in English. For simple processing, it's kept on one line. :en
+
+この段落は日本語で書かれています。処理を簡単にするため、改行を入れないようにしています。 :ja
 
 ![这是图片](https://raw.githubusercontent.com/yemanzhongting/picb/main/structure.jpg)
 
